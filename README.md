@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</p>
 
-<!--
-**wan0514/wan0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A28F7&center=true&vCenter=true&width=435&lines=FROM+UXUI+DESIGNER+TO+FRONTDEVELOPER" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+📫 Contact 📫
+</p>
+<p align="center">
+  <a href="https://wan-do-it.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:wjdqo9705@gmail.com">
+    <img src="https://img.shields.io/badge/wjdqo9705@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+
