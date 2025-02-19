@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wan0514&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan0514&layout=compact" />
 </p>
 
 <p align="center">
