@@ -15,10 +15,6 @@
 📫 Contact 📫
 </p>
 <p align="center">
-  <a href="https://wan-do-it.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="mailto:wjdqo9705@gmail.com">
     <img src="https://img.shields.io/badge/wjdqo9705@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
