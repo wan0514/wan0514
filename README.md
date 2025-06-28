@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm wan 👋</h2>
-<p align="center">From UXUI Designer To FrontEnd Developer .<br/>기록의 힘을 믿으며, 성장해가는 개발자 wan입니다</p>
+<p align="center">From UXUI Designer to FrontEnd Developer<br/>기록의 힘을 믿으며, 성장해가는 개발자 wan입니다</p>
 
 ---
 
