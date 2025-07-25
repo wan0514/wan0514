@@ -32,15 +32,6 @@
   </a>
 </p>
 
-
-<h3 align="center">📘 My Notion</h3>
-
-<p align="center">
-  <a href="https://www.notion.so/your-notion-home-link" target="_blank">
-    <img src="https://img.shields.io/badge/개발, 일정관리, 회고가 담긴 Notion 공간-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
