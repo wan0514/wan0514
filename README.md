@@ -26,7 +26,7 @@
 <div align="center">
   
 ### 🔧 [Issue Tracker](https://github.com/wan0514/issue-tracker)  
-<i>CI/CD 환경 구축, SPA 라우팅 이슈, 번들 최적화 등 실전 문제를 해결한 클론 프로젝트</i>
+<i>CI/CD 환경 구축, SPA 라우팅 이슈, 번들 최적화 등 실전 문제를 해결한 프로젝트</i>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-### 💡 [Vanilla React 클론 프로젝트](https://github.com/wan0514/fe-my-react)  
+### 💡 [Vanilla React 프레임워크 구현 프로젝트](https://github.com/wan0514/fe-my-react)  
 <i>React의 렌더링 흐름과 상태 관리 원리를 직접 구현하며, 구조적 한계를 반복적으로 극복한 학습 프로젝트</i>
 
 </div>
