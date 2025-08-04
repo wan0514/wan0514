@@ -32,7 +32,7 @@
 
 <p align="center">
   👉 <a href="https://github.com/wan0514/issue-tracker">프로젝트 링크</a>
-  📚 <a href="https://github.com/wan0514/issue-tracker?tab=readme-ov-file#%EF%B8%8F-%EC%A3%BC%EC%9A%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%8F-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%84%EC%A0%84">문제 해결 사례 보기</a><br />
+  📚 <a href="https://github.com/wan0514/issue-tracker/wiki">문제 해결 사례 보기</a><br />
   ✏️ <a href="https://github.com/codesquad-masters2025-team02/issue-tracker/issues?q=is%3Apr%20author%3Awan0514">PR 아카이브 보기</a>
 </p>
 
