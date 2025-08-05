@@ -33,7 +33,6 @@
 <p align="center">
   👉 <a href="https://github.com/wan0514/issue-tracker">프로젝트 링크</a>
   📚 <a href="https://github.com/wan0514/issue-tracker/wiki">문제 해결 사례 보기</a><br />
-  ✏️ <a href="https://github.com/codesquad-masters2025-team02/issue-tracker/issues?q=is%3Apr%20author%3Awan0514">PR 아카이브 보기</a>
 </p>
 
 <br />
@@ -48,7 +47,6 @@
 <p align="center">
   👉 <a href="https://github.com/wan0514/fe-my-react">프로젝트 링크</a>
   📚 <a href="https://github.com/wan0514/fe-my-react/wiki#%EF%B8%8F-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-troubleshooting">문제 해결 사례 보기</a><br />
-  ✏️ <a href="https://github.com/wan0514/fe-my-react/pulls?q=is%3Apr+is%3Aclosed">PR 아카이브 보기</a>
 </p>
 
 
