@@ -8,14 +8,16 @@
 
 ---
 
-<h3 align="center">📌 Portfolio & Notion Archive</h3>
+<h3 align="center">📌 Portfolio & PR Archive</h3>
 
 <p align="center">
-  <a href="https://coconut-ferret-aac.notion.site/24402717a647803189dacd80e3dc2721" target="_blank">
-    <img src="https://img.shields.io/badge/문제 해결 사례 (Notion)-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <a href="https://coconut-ferret-aac.notion.site/Portfolio-24702717a64780fbabe2cb6a12bc7684" target="_blank">
+    <img src="https://img.shields.io/badge/프로젝트 별 문제 해결 (Notion)-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+</p>
+<p align="center">
   <a href="https://coconut-ferret-aac.notion.site/Pull-Request-24502717a6478033b48dc091960a74b4?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/PR 아카이빙 - 커밋 기반 학습 정리-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/PR 아카이빙-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
